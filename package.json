@@ -1,0 +1,28 @@
+{
+  "name": "jsx-to-html",
+  "version": "1.0.0",
+  "description": "JSX 文字列を HTML に変換する",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadnessOjisan/jsx-to-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadnessOjisan/jsx-to-html/issues"
+  },
+  "homepage": "https://github.com/sadnessOjisan/jsx-to-html#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.38",
+    "@types/react-dom": "^16.9.8",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
